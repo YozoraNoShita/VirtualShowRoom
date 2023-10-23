@@ -7,18 +7,18 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Denim_Raw_FRONT_1964
-    second: {fileID: 2100000, guid: 477f021f722d84a4cb3c83dea1428af9, type: 2}
+      name: Denim_Raw_FRONT_2024
+    second: {fileID: 2100000, guid: eb6010cd03a04d942856782e6c3e50d0, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Material2151
-    second: {fileID: 2100000, guid: 477f021f722d84a4cb3c83dea1428af9, type: 2}
+      name: Material2211
+    second: {fileID: 2100000, guid: eb6010cd03a04d942856782e6c3e50d0, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Material2281
-    second: {fileID: 2100000, guid: 477f021f722d84a4cb3c83dea1428af9, type: 2}
+      name: Material2341
+    second: {fileID: 2100000, guid: eb6010cd03a04d942856782e6c3e50d0, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

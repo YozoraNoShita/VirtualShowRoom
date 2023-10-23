@@ -7,18 +7,18 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Cotton_14_Wale_Corduroy_FRONT_1964
-    second: {fileID: 2100000, guid: 6728ae67bdc74474281d43df61e539b2, type: 2}
+      name: Cotton_14_Wale_Corduroy_FRONT_2024
+    second: {fileID: 2100000, guid: 1efd97a415d742449942ed17e3663cf0, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Cotton_14_Wale_Corduroy_FRONT_1973
-    second: {fileID: 2100000, guid: 6728ae67bdc74474281d43df61e539b2, type: 2}
+      name: Cotton_14_Wale_Corduroy_FRONT_2033
+    second: {fileID: 2100000, guid: 1efd97a415d742449942ed17e3663cf0, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Material2158
-    second: {fileID: 2100000, guid: 6728ae67bdc74474281d43df61e539b2, type: 2}
+      name: Material2218
+    second: {fileID: 2100000, guid: 1efd97a415d742449942ed17e3663cf0, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

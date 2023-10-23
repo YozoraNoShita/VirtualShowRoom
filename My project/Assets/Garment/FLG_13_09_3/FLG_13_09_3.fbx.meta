@@ -3,7 +3,12 @@ guid: 4f6edbddc10433f468c068d60c3e5c5b
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bold_FRONT_2051
+    second: {fileID: 2100000, guid: 57163f1d9d889454685e03c404151446, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

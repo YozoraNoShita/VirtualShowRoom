@@ -3,22 +3,7 @@ guid: 9952bcb5fe88cec4e919764dfe69c853
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Cotton_Oxford_FRONT_2040
-    second: {fileID: 2100000, guid: 1e5ff1030701b244a99b9aaebc9800d8, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material1819
-    second: {fileID: 2100000, guid: 1e5ff1030701b244a99b9aaebc9800d8, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Material2273
-    second: {fileID: 2100000, guid: 1e5ff1030701b244a99b9aaebc9800d8, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0

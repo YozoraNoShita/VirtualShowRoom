@@ -3,12 +3,7 @@ guid: 1c504e895ce3e5f4282a43d69ab74aa0
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects:
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: FABRIC 1_FRONT_2668
-    second: {fileID: 2100000, guid: 8c102254a2e0d7142a317e44d4c61d35, type: 2}
+  externalObjects: {}
   materials:
     materialImportMode: 2
     materialName: 0

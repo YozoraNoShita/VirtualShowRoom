@@ -3,7 +3,27 @@ guid: 689935aeb6a07264e9f7ba6443eb755f
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default Fabric_FRONT_2749
+    second: {fileID: 2100000, guid: 4833da0441b9783459a5af91ebbfc9f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Knit_Fleece_Terry_FRONT_2738
+    second: {fileID: 2100000, guid: 4833da0441b9783459a5af91ebbfc9f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material1106145
+    second: {fileID: 2100000, guid: 4833da0441b9783459a5af91ebbfc9f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material1106156
+    second: {fileID: 2100000, guid: 4833da0441b9783459a5af91ebbfc9f7, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -47,7 +67,7 @@ ModelImporter:
     nodeNameCollisionStrategy: 1
     fileIdsGeneration: 2
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 1

@@ -3,7 +3,27 @@ guid: 9eac0a79ab6dd2244a9d4f1a8c860388
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FABRIC 1_FRONT_2732
+    second: {fileID: 2100000, guid: 8334210df864e5a4d9c57e631e1d8e11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material2581
+    second: {fileID: 2100000, guid: 8334210df864e5a4d9c57e631e1d8e11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sherpa_Shearling_Curly_Fleece_Poly_360gsm_BACK_178155
+    second: {fileID: 2100000, guid: 8334210df864e5a4d9c57e631e1d8e11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sherpa_Shearling_Curly_Fleece_Poly_360gsm_FRONT_178155
+    second: {fileID: 2100000, guid: 8334210df864e5a4d9c57e631e1d8e11, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -47,7 +67,7 @@ ModelImporter:
     nodeNameCollisionStrategy: 1
     fileIdsGeneration: 2
     swapUVChannels: 0
-    generateSecondaryUV: 0
+    generateSecondaryUV: 1
     useFileUnits: 1
     keepQuads: 0
     weldVertices: 1

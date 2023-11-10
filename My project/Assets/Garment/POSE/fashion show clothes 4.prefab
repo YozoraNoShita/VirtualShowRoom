@@ -1730,7 +1730,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4244240596097872615}
   m_Layer: 0
-  m_Name: fashion show 3 clothes
+  m_Name: fashion show clothes 4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
